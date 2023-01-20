@@ -9,7 +9,6 @@
 
 path: requirements.txt
 
-- Used to install third party libraries in python
 - For this assignment I created the file and intalled NumPy using the following commands:
 1. pip install numpy
 2. pip freeze > requirements.txt (records an environment's current package list into requirements.txt)
